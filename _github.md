@@ -1,8 +1,10 @@
 ## Quick setup — if you’ve done this kind of thing before
 
-```
-https://github.com/txtguy/android.git
-```
+- HTTPS: `https://github.com/txtguy/android.git`
+
+OR
+
+- SSH: `git@github.com:txtguy/android.git`
 
 Get started by [creating a new file](https://github.com/txtguy/android/new/main)
 or [uploading an existing file](https://github.com/txtguy/android/upload).
