@@ -23,6 +23,10 @@ kdeconnect-cli -l
 
 - Send file to Android device
 
+https://userbase.kde.org/KDE_Connect/Tutorials/Useful_commands
+
+> `kdeconnect-cli -d $(kdeconnect-cli -a --id-only) --share "${file}"`
+
 ```sh
 kdeconnect-cli -d "$(kdeconnect-cli -a --id-only)" --share hello.txt
 ```
